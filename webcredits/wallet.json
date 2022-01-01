@@ -1,0 +1,9 @@
+{
+  "@id": "#this",
+  "@type": "Wallet",
+  "webledger": "./webledger.json",
+  "webcredits": "./webcredits.json",
+  "asset": "./asset.json",
+  "currency": "MELT",
+  "description": "Personal credits to measure productivity"
+}
