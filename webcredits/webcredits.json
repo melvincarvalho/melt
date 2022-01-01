@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "@type": "Credit",
+  "source": "https://melvincarvalho.com/#me",
+  "amount": 100000,
+  "destination": "https://workerboi.gitmark.me/#me",
+  "timestamp": 1641061317,
+  "description": "interledger",
+  "context": "gitmark:03dcc483a779dcf9bbb10c696e2fadb365c7ca46dd86367ecb7f911e333a2a85:0"
+ }
+]
