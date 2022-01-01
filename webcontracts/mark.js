@@ -76,7 +76,7 @@ function mark(credit, options) {
       return
     }
     ledger[credit.source] -= data.amount
-    ledger[credit.destination] = ledger[credit.destination] || 5
+    ledger[credit.destination] = ledger[credit.destination] || 0
     ledger[credit.destination] += data.amount
     console.log('ledger', ledger)
 
