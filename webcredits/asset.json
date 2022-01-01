@@ -1,0 +1,12 @@
+[
+  {
+    "@id": "#this",
+    "@type": "Asset",
+    "amount": 1000000,
+    "name": "MELT",
+    "ticker": "MELT",
+    "description": "Mel Tokens in CZK",
+    "precision": 0,
+    "owner": "https://melvincarvalho.com/#me"
+  }
+]

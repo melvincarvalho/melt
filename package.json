@@ -1,0 +1,31 @@
+{
+  "name": "meltz",
+  "version": "0.0.1",
+  "description": "melt",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/melt.git"
+  },
+  "keywords": [
+    "melt"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/melt/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/melt#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cuid": "^2.1.8",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
