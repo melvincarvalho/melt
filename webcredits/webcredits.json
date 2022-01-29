@@ -34,5 +34,14 @@
   "timestamp": 1642895854,
   "description": "interledger",
   "context": "gitmark:f2549e7e35d9e1aca2d27e877fd37fdb68dcbc1780a5f757fc3fb576158b3621:0"
+ },
+ {
+  "@type": "Credit",
+  "source": "https://melvincarvalho.com/#me",
+  "amount": 100000,
+  "destination": "https://workerboi.gitmark.me/#me",
+  "timestamp": 1643498665,
+  "description": "interledger",
+  "context": "gitmark:87ff1069542aa9829a55fffc6377c9558c9b67d9489c0ff23e18e121a9ba21f3:0"
  }
 ]
